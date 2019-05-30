@@ -1,0 +1,15 @@
+current directory: /Users/yusuke/rails_apps/HerokuApp/vendor/bundle/ruby/2.4.0/gems/bindex-0.7.0/ext/skiptrace
+/Users/yusuke/.rbenv/versions/2.4.0/bin/ruby -I /Users/yusuke/.rbenv/versions/2.4.0/lib/ruby/site_ruby/2.4.0 -r ./siteconf20190531-13167-1twoyi.rb extconf.rb
+creating Makefile
+
+current directory: /Users/yusuke/rails_apps/HerokuApp/vendor/bundle/ruby/2.4.0/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/yusuke/rails_apps/HerokuApp/vendor/bundle/ruby/2.4.0/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/cruby.bundle
+
+current directory: /Users/yusuke/rails_apps/HerokuApp/vendor/bundle/ruby/2.4.0/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20190531-13167-thnrpx/skiptrace
